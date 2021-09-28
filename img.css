@@ -1,0 +1,18 @@
+h1:hover{
+	color: green;
+}
+.bb{
+	color: blanchedalmond;
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bold;
+	font-family: verdana;
+}
+.ba{
+	text-align: center;
+	size: 40px;
+	color: orangered;
+}
+html{
+	scroll-behavior: smooth;
+}
